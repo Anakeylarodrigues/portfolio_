@@ -9,17 +9,13 @@ export const Main = styled.main`
 export const BoxInicio = styled.div`
     /* border: solid blue 2px; */
     display: flex;
-    justify-content: space-around;
-    text-align: center;
-
-    h1 {
-        margin-top: 40px;
-    }
+    justify-content: center;
+    align-items: center;
 
     h1, h2 {
         font-size: 3rem;
-        /* width: 57vw; */
         color: white;
+        text-align: center;
         /* border: solid yellow 2px; */
     }
 
@@ -39,7 +35,7 @@ export const BoxInicio = styled.div`
 
 export const Foto = styled.div`
     /* border: solid purple 2px; */
-    margin-top: 30px;
+    margin-top: 40px;
 
     img {
         width: 30vw;

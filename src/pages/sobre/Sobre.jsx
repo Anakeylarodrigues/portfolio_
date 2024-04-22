@@ -13,8 +13,7 @@ export default function Sobre() {
         <S.BoxSobre>
             <h1>Sobre</h1>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum nesciunt, tempore totam quo id nulla neque vel hic similique nobis nostrum a. Officiis eos assumenda amet numquam culpa dolor provident?
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum delectus fugit neque sint facilis dolore accusamus consequuntur, minima animi veniam! Deleniti ducimus neque beatae dolor quisquam? Ab ad maiores nemo?
-            </p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum delectus fugit neque sint facilis dolore accusamus consequuntur, minima animi veniam! Deleniti ducimus neque beatae dolor quisquam? Ab ad maiores nemo?</p>
         </S.BoxSobre>
         <S.BoxHabilidades>
           <h2>Habilidades</h2>

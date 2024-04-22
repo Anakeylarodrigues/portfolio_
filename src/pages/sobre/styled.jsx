@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Main = styled.main`
-    /* border: solid blue 2px; */
+    border: solid blue 2px;
     background-color: #1b1b1b;
     height: 100vh;
 `

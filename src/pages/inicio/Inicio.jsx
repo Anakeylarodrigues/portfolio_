@@ -9,7 +9,7 @@ export default function Inicio() {
         <Header/>
           <S.BoxInicio>
               <div>
-                <h1>Olá, meu nome é Ana!</h1>
+                <h1>Olá, sou a Ana!</h1>
                 <h2>Sou desenvolvedora front-end.</h2>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem esse dolor nisi quos, quo nesciunt voluptates error deleniti quam deserunt neque dolore atque explicabo. Voluptate eligendi vero illo minus nam!</p>
               </div>
