@@ -27,15 +27,11 @@ export const Header = styled.header`
 
     li {
         list-style: none;
-
-        @media (max-width: 500px) {
-        height: 5vh;
-        }
     }
 
-    @media (max-width: 700px) {
-        /* width: 100%; */
-        height: 30vh;
+    li:hover {
+        text-decoration: underline;
+        color: white;
     }
 `
 
